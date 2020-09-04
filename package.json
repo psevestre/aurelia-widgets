@@ -45,7 +45,7 @@
     "gulp-plumber": "^1.0.1",
     "gulp-sourcemaps": "^1.6.0",
     "gulp-yuidoc": "^0.1.2",
-    "jasmine-core": "^2.3.4",
+    "jasmine-core": "^3.6.0",
     "jshint-stylish": "^1.0.0",
     "jspm": "^0.16.39",
     "karma": "^0.13.21",
