@@ -48,7 +48,7 @@
     "jasmine-core": "^2.3.4",
     "jshint-stylish": "^1.0.0",
     "jspm": "^0.16.39",
-    "karma": "^0.13.21",
+    "karma": "^6.0.3",
     "karma-babel-preprocessor": "^6.0.1",
     "karma-chrome-launcher": "^0.2.2",
     "karma-jasmine": "^0.3.7",
